@@ -11,6 +11,7 @@
 		DE6C8722266E852600DED1FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6C8721266E852600DED1FB /* ContentView.swift */; };
 		DE6C8724266E852700DED1FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE6C8723266E852700DED1FB /* Assets.xcassets */; };
 		DE6C8727266E852700DED1FB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE6C8726266E852700DED1FB /* Preview Assets.xcassets */; };
+		DE6C8731266E85A100DED1FB /* SliderField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6C8730266E85A100DED1FB /* SliderField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DE6C8723266E852700DED1FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE6C8726266E852700DED1FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE6C8728266E852700DED1FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE6C8730266E85A100DED1FB /* SliderField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				DE6C871F266E852600DED1FB /* ColorAppApp.swift */,
 				DE6C8721266E852600DED1FB /* ContentView.swift */,
+				DE6C8730266E85A100DED1FB /* SliderField.swift */,
 				DE6C8723266E852700DED1FB /* Assets.xcassets */,
 				DE6C8728266E852700DED1FB /* Info.plist */,
 				DE6C8725266E852700DED1FB /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE6C8731266E85A100DED1FB /* SliderField.swift in Sources */,
 				DE6C8722266E852600DED1FB /* ContentView.swift in Sources */,
 				DE6C8720266E852600DED1FB /* ColorAppApp.swift in Sources */,
 			);
